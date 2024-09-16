@@ -1,0 +1,6 @@
+34003400;Lionel Messi;34
+36003600;Cristiano Ronaldo;36
+35003500;Sergio Ramos;35
+34340000;Luis Suarez;34
+28002800;Paul Pogba;28
+38003800;Dani Alves;38

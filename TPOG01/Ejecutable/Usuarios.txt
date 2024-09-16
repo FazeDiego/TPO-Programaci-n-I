@@ -1,0 +1,4 @@
+admin;admin
+user;user
+admin;admin
+diego;1234

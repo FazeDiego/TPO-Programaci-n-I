@@ -1,0 +1,9 @@
+43096964;Nasa Alberto;30
+28002800;Paul Pogba;28
+34340000;Luis Suarez;34
+34003400;Lionel Messi;34
+35003500;Sergio Ramos;35
+36003600;Cristiano Ronaldo;36
+38003800;Dani Alves;38
+43096965;Karl Marx;69
+43096064;Diego Martinez;21
